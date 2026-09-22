@@ -1,6 +1,6 @@
 # Hi, I'm Malvin! 👋
 
-### 💫 About Me
+### About Me
 Computer Engineering student passionate about **Software Engineering** and **Computer Networks**.
 
 - 💻 Interested in Web & Application Development
